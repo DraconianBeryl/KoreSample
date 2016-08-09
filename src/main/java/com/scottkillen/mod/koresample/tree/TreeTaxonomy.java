@@ -1,5 +1,7 @@
 package com.scottkillen.mod.koresample.tree;
 
+import com.scottkillen.mod.koresample.common.block.DefinesSlab;
+import com.scottkillen.mod.koresample.common.block.DefinesStairs;
 import com.scottkillen.mod.koresample.tree.DefinesLeaves;
 
 public interface TreeTaxonomy

@@ -4,6 +4,8 @@ import com.scottkillen.mod.koresample.common.util.slab.SingleDoubleSlab;
 import com.scottkillen.mod.koresample.tree.block.LeavesBlock;
 import com.scottkillen.mod.koresample.tree.block.LogBlock;
 import com.scottkillen.mod.koresample.tree.block.SaplingBlock;
+import com.scottkillen.mod.koresample.common.block.DefinesSlab;
+import com.scottkillen.mod.koresample.common.block.DefinesStairs;
 import com.scottkillen.mod.koresample.common.block.StairsBlock;
 import com.scottkillen.mod.koresample.tree.block.WoodBlock;
 

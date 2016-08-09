@@ -1,7 +1,8 @@
 package com.scottkillen.mod.koresample.tree.block;
 
-import com.scottkillen.mod.koresample.tree.DefinesSlab;
 import java.util.Collection;
+
+import com.scottkillen.mod.koresample.common.block.DefinesSlab;
 
 // Use com.scottkillen.mod.koresample.common.block.SlabBlock instead
 // This is left to honor the api contract

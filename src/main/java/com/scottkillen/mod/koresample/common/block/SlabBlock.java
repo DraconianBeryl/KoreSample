@@ -3,7 +3,7 @@ package com.scottkillen.mod.koresample.common.block;
 import com.google.common.base.Objects;
 import com.google.common.collect.ImmutableList;
 import com.scottkillen.mod.koresample.common.util.slab.TheSingleSlabRegistry;
-import com.scottkillen.mod.koresample.tree.DefinesSlab;
+
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.Block;

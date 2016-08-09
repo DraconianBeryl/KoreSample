@@ -1,6 +1,5 @@
 package com.scottkillen.mod.koresample.common.block;
 
-import com.scottkillen.mod.koresample.tree.DefinesStairs;
 import net.minecraft.block.BlockStairs;
 
 @SuppressWarnings("AbstractClassNeverImplemented")
